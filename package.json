@@ -1,0 +1,19 @@
+{
+  "name": "crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faith-Gray/node-crash-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faith-Gray/node-crash-course/issues"
+  },
+  "homepage": "https://github.com/Faith-Gray/node-crash-course#readme"
+}
